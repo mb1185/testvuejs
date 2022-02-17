@@ -1,7 +1,7 @@
 from bs4 import BeautifulSoup
 
 #xml_file_svg = 'src/assets/model_temperature.svg'
-#xml_file_vue = 'src/components/TemperatureSvg.vue'
+#xml_file_vue = 'src/components/TemperatureSvg.vue' 
 
 #xml_file_svg = 'src/assets/model_entree_num.svg'
 #xml_file_vue = 'src/components/EntreeNumSvg.vue'
