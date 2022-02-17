@@ -1,0 +1,17 @@
+<div class="card" style="max-width: 400px;">
+    <div class="card-header">
+      {{ sp.proprietes.Nom }}
+      <span class="badge bg-info text-dark">
+      id : {{ sp.proprietes.Etat.id }}
+      </span>
+    </div>
+    <div class="card-body">
+      <div class="variable" >
+      E : {{ sp.pValue.Etat }}
+      </div>
+      <modelboutonon :proprietes="{'Valeur': sp.proprietes.Etat}" :repr="repr"  x="206" y="17">
+      </modelboutonon>
+      <modelboutonoff :proprietes="{'Valeur': sp.proprietes.Etat}" :repr="repr"  x="206" y="17">
+      </modelboutonoff>
+    </div>
+  </div> 

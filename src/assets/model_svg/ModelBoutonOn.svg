@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="40"
+   height="40"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0.2 (e86c870, 2021-01-15)"
+   sodipodi:docname="ModelBoutonOn.svg"
+   v-on_click="sp.Ecrire('ON', 'Valeur')"
+   _x="x"
+   _y="y">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="6.6284362"
+     inkscape:cx="-54.396057"
+     inkscape:cy="67.445666"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="1920"
+     inkscape:window-height="1061"
+     inkscape:window-x="-4"
+     inkscape:window-y="-4"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <ellipse
+       id="path3839"
+       cx="20.999996"
+       cy="19"
+       rx="13.884467"
+       ry="13.884469"
+       _class="$fcBin($fcIf(sp.pValue.Valeur, '==', 'ON'), 'bp On', 'bp Off')"
+       fill="#ff0000" />
+    <text
+       xml:space="preserve"
+       x="21.092186"
+       y="19.764805"
+       id="text835-7"
+       text-anchor="middle"
+       lengthAdjust="spacing"
+       dominant-baseline="middle"
+       class="svg-text"><tspan
+         sodipodi:role="line"
+         id="tspan833-2"
+         x="21.092186"
+         y="19.764805">ON</tspan></text>
+  </g>
+</svg>

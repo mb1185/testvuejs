@@ -1,0 +1,12 @@
+{
+    "#LumiereSalin":{
+        "isGroup" : false,
+        "typeObject": "lumiere"
+
+    },  
+    "#LampeBar":{
+        "isGroup" : true,
+        "typeObject": "temperature"
+
+    }
+}

@@ -1,0 +1,6 @@
+<svg id="svg8" width="40" height="40" _x="x" _y="y" v-on_click="sp.Ecrire('ON', 'Valeur')" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <g id="layer1">
+  <ellipse id="path3839" cx="21" cy="19" rx="13.884" ry="13.884" fill="#f00" _class="$fcBin($fcIf(sp.pValue.Valeur, '==', 'ON'), 'bp On', 'bp Off')"/>
+  <text id="text835-7" class="svg-text" x="21.092186" y="19.764805" dominant-baseline="middle" text-anchor="middle" xml:space="preserve"><tspan id="tspan833-2" x="21.092186" y="19.764805">ON</tspan></text>
+ </g>
+</svg>

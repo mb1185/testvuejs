@@ -1,0 +1,8 @@
+<svg id="svg8" class="svg" width="300" height="35" _x="x" _y="y" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <g id="layer1">
+  <rect id="rect843" class="svg-fond" x=".97589" y="1.32" width="298.16" height="32.71" fill="blue"/>
+  <text id="text835" class="svg-text" x="2%" y="50%" dominant-baseline="middle" style="fill:#000000;font-family:Arial;font-size:21.333px;letter-spacing:0px;line-height:125%;stroke-width:1px;word-spacing:0px" xml:space="preserve"><tspan id="tspan833" x="49.886322" y="19.498434">{{ sp.proprietes.Nom }}</tspan></text>
+  <image id="image2077" x="219.7" y="-1.7703" width="40" height="40" _proprietes="{'Valeur': sp.proprietes.Etat}" _repr="repr" composant="modelboutonon" preserveAspectRatio="none" xlink:href="file:///G:/Dev/Python/Project/TestVueJs/testvuejs/src/assets/model_svg/ModelBoutonOn.svg"/>
+  <image id="image2139" x="255.38" y="-1.5483" width="40" height="40" _proprietes="{'Valeur': sp.proprietes.Etat}" _repr="repr" composant="modelboutonoff" preserveAspectRatio="none" xlink:href="file:///G:/Dev/Python/Project/TestVueJs/testvuejs/src/assets/model_svg/ModelBoutonOff.svg"/>
+ </g>
+</svg>

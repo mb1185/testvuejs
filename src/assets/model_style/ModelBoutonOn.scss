@@ -1,0 +1,30 @@
+@keyframes anim_vert {
+  from {fill: brown;}
+  to {fill: rgb(38, 255, 0);}
+}
+
+.bp{
+  filter: drop-shadow( 3px 3px 2px rgba(0, 0, 0, .7));
+  stroke-width: 1px;
+  stroke: black;
+  &.On{
+      fill: rgb(0, 255, 0);
+      animation-name: anim_vert;
+      animation-duration: 2s;
+
+  }
+  &.Off{
+    fill: brown;
+  }
+  &:hover{
+    stroke-width: 3px;
+    }
+  &:active{
+    filter: drop-shadow( 2px 2px 2px rgba(152, 202, 159, 0.7));
+  }
+}
+
+.svg-text{
+  font-size: 12;
+}
+

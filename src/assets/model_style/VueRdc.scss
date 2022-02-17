@@ -1,0 +1,8 @@
+.svg-fond-vue{
+    fill :url(#gradient_blanc);
+    stroke-width: 1px;
+    stroke: black;
+    &:hover{
+      stroke-width: 3px;
+    }
+  }

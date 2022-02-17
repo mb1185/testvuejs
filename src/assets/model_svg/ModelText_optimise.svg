@@ -1,0 +1,6 @@
+<svg id="svg8" width="100" height="30" _x="x" _y="y" v-on_click="sp.popup('Valeur')" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <g id="layer1">
+  <rect id="rect843" class="svg-fond" width="100%" height="100%" fill="#008000" stroke="#00f" stroke-width="3px"/>
+  <text id="text835" class="svg-text" x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" xml:space="preserve"><tspan id="tspan833" x="50" y="15">{{ sp.pValue.Valeur }}</tspan></text>
+ </g>
+</svg>

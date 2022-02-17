@@ -1,0 +1,13 @@
+.svg-text {
+    color: black;
+    font-family:fantasy;
+    font-weight: bold;
+    font-size: 16px;
+    pointer-events: none;
+  }
+.svg-fond{
+  fill :url(#gradient_bleu)  ;
+  &:hover{
+    stroke-width: 8px;
+  }
+}

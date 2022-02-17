@@ -1,0 +1,28 @@
+installer
+
+npm install -g @vue/cli
+
+puis creer model
+vue create nomapplication
+
+installer
+npm install vue-template-compiler vuex sass-loader node-sass
+
+npm install socket.io--save
+npm install socket.io-client --save
+
+pour demarrer le serveur test local:
+npm run serve
+
+//ThreeJS
+npm install --save three
+npm i --save-dev "@types/three"
+
+//ThreeJs mesh ui
+npm install three-mesh-ui 
+
+//Copie project
+Supprimer le fichier package-lock.json lors d'une reinstalation du project avec npm install
+verifier que le package.json les versions a installer soit exact (sans ^ devant le numero de version)
+faire npm init avant npm install
+puis npm run serve (erreur lors du 1er lancement, relancer une seconde fois)
